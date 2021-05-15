@@ -13,8 +13,8 @@ git clone 网址
  
 
 特殊的查找资源小技巧-常用前缀后缀 
-• 找百科大全 awesome xxx
-
+• 找百科大全 awesome xxx  如awesome vue
+ 
 • 找例子 xxx sample
 
 • 找空项目架子 xxx starter / xxx boilerplate 
